@@ -67,6 +67,10 @@ plt.show()
 
 ## Output:
 
+<img width="717" height="223" alt="Screenshot 2026-03-28 170516" src="https://github.com/user-attachments/assets/a1d4bfaa-77fe-41ef-bc5d-1402e50d283b" />
+
+<img width="309" height="70" alt="Screenshot 2026-03-28 170542" src="https://github.com/user-attachments/assets/87348583-22d3-4c20-98d4-78309c5a61cc" />
+
 <Figure size 800x400 with 1 Axes><img width="695" height="391" alt="image" src="https://github.com/user-attachments/assets/1519db0b-d697-4cf1-a458-f8f940272b95" />
 
 
